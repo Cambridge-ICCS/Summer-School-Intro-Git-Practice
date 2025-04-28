@@ -6,7 +6,8 @@ It was originally used for the 2024 ICCS Summer School Git Introductory Course.
 
 
 ## Instructions
-First click 'Fork' to create a new forked repository under your own account.
+First, make sure you fulfill the [prerequisites](https://github.com/Cambridge-ICCS/Summer-school-Intro-Git/tree/main?tab=readme-ov-file#preparation-and-prerequisites).
+Then click 'Fork' to create a new forked repository under your own account.
 
 Next clone your new forked repository onto your own machine using the 'SSH' url (found under '<> Code').
 ```
