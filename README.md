@@ -2,7 +2,7 @@
 This repo is used to practice cloning, branching, and incorporating changes by a pull request.
 It contains files with arbitrary data that can be modified.
 
-It was originally used for the 2024 ICCS Summer School Git Introductory Course.
+It was originally used for the 2024 ICCS Summer School Git Introductory Course and is since being used for subsequent courses.
 
 
 ## Instructions
